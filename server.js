@@ -8,7 +8,7 @@
 * 
 *  Name: Franz Balite Student ID: 142546209 Date: 2023-03-22
 *
-*  Published URL: ___________________________________________________________
+*  Published URL: https://troubled-red-vestments.cyclic.app
 *
 ********************************************************************************/
 
